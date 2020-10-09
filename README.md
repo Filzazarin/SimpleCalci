@@ -1,3 +1,3 @@
 # SimpleCalci
  
-This is made with HTML ans CSS .
+This is made with HTML and CSS .
